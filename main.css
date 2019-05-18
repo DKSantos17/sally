@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+img {
+    float: right;
+    width: 150px;
+    max-width: 40%;
+}
+
+.date {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+}
